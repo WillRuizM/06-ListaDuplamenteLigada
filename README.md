@@ -1,3 +1,7 @@
+William Ruiz
+william.mesquita@fatec.sp.gov.br
+
+
 # Lista Duplamente Ligada 
 ---
 
